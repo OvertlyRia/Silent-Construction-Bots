@@ -1,7 +1,7 @@
 data:extend{
     {
         type = "double-setting",
-        name = "logistic-robot-volume",
+        name = "construction-robot-volume",
         setting_type = "startup",
         default_value = 0.0,
         minimum_value = 0.0,

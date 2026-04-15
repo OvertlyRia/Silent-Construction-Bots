@@ -1,9 +1,9 @@
 {
-  "name": "silent-logistic-bots",
-  "version": "0.2.1",
+  "name": "silent-construction-bots",
+  "version": "0.1",
   "factorio_version" : "2.0",
-  "title": "Silent Logistic Bots",
-  "author": "Raszhagal",
-  "description": "Logistic bots can be loud and distracting! This mod fixes that by muting them (default) and exposing their volume setting to be user-adjustable.",
-  "homepage": "https://github.com/Raszhagal/Silent-Logistic-Bots"
+  "title": "Silent Construction Bots",
+  "author": "Barrenform",
+  "description": "Construction bots beep too much, this quiets them and allows for selective volume control.",
+  "homepage": "https://github.com/OvertlyRia/Silent-Construction-Bots"
 }
