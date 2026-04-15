@@ -12,7 +12,6 @@ function construction_robot_sounds()
         { filename = "__base__/sound/construction-robot-7.ogg", volume = settings.startup["construction-robot-volume"].value },
         { filename = "__base__/sound/construction-robot-8.ogg", volume = settings.startup["construction-robot-volume"].value },
         { filename = "__base__/sound/construction-robot-9.ogg", volume = settings.startup["construction-robot-volume"].value },
-        { filename = "__base__/sound/construction-robot-10.ogg", volume = settings.startup["construction-robot-volume"].value },
         { filename = "__base__/sound/construction-robot-11.ogg", volume = settings.startup["construction-robot-volume"].value },
         { filename = "__base__/sound/construction-robot-12.ogg", volume = settings.startup["construction-robot-volume"].value },
         { filename = "__base__/sound/construction-robot-13.ogg", volume = settings.startup["construction-robot-volume"].value },
